@@ -74,8 +74,9 @@ print(type(10 + 20))
 
 # Ejercicio: convertir tipos
 texto = "25"
+print(texto,"type", (texto))
 numero = int(texto)
-print("Resultado entero:", numero_convertido, "tipo:", type(numero))
+print("Resultado entero:", numero, "tipo:", type(numero))
 numero = 100
 texto = str(numero)
 print("Resultado de la conversión:", texto, "tipo:", type(texto))
