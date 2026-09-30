@@ -79,3 +79,10 @@ print("Resultado entero:", numero_convertido, "tipo:", type(numero))
 numero = 100
 texto = str(numero)
 print("Resultado de la conversión:", texto, "tipo:", type(texto))
+
+# Ejercicio :Booleanos y comparaciones
+a = 8
+b = 3
+mayor = a > b
+print("Resultado de la comparación:", mayor)
+print("Tipo de dato:", type(mayor))
