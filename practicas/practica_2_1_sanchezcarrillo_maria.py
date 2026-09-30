@@ -1,6 +1,4 @@
 # Ejercicio: Datos personales
-from email.mime import text
-
 
 nombre = "Maria"
 edad = 18
